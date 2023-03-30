@@ -1,0 +1,2053 @@
+@media (min-width:320px) and (max-width:575.99px){
+   
+   /* ***************************************
+           navbar start
+    **************************************** */
+   
+    nav .navbar-brand img{
+        width: 50%;
+    }
+
+    .navbar-nav {
+        column-gap: 50px;
+       
+        padding-left: 20px;
+    }
+
+    nav .navbar-collapse{
+        background: #0C3543;
+    }
+
+    .navbar-toggler {
+        padding: 0;
+        
+    }
+
+    nav .navbar-toggler i{
+        color: #fff;
+    }
+
+    nav .baton {
+        font-size: 15px;
+        padding: 10px 20px;
+       margin-left: 20px;
+       margin-bottom: 20px;
+    }
+
+    nav .baton:hover {
+        background: #FF9600;
+        color: #Fff;
+    }
+
+
+    /* ***************************************
+           navbar end
+     **************************************** */
+
+
+     /* ***************************************
+            banner start
+      **************************************** */
+    .banner h2 {
+        font-size: 27px;
+        width: auto;
+        padding-top: 100px;
+        margin-bottom: 15px;
+    }
+
+    .banner .baton {
+        padding: 10px 20px;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+
+    .banner .baton:hover {
+        background: #FF9600;
+        color: #Fff;
+    }
+
+    .banner img {
+        margin-bottom: -8px;
+    }
+
+     /* ***************************************
+            banner end
+      **************************************** */
+
+
+      /* ***************************************
+            adventure start
+      **************************************** */
+
+    .adventure h3 {
+        font-size: 20px;
+    }
+
+    .adventure h2 {
+        font-size: 20px;
+        width: auto;
+        margin-bottom: 24px;
+    }
+
+    .adventure .p1::after {
+        top: -14px;
+    }
+
+    .adventure .p1 {
+        font-size: 14px;
+        width: auto;  
+    }
+
+    .adventure .iconp {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .adventure .iconp i {
+        margin-right: 2px;
+    }
+
+    .adventure .baton {
+        padding: 10px 20px;
+        margin-top: 10px;
+        
+    }
+
+    .adventure .baton:hover {
+        background: #FF9600;
+        color: #Fff;
+        
+    }
+
+    .adventure img {
+        display: none;
+    }
+
+
+    /* ***************************************
+            adventure end
+      **************************************** */
+
+
+       /* ***************************************
+            sports start
+      **************************************** */
+
+      .sports {
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+
+    .sports h2 {
+        font-size: 60px; 
+        text-align: center; 
+    }
+
+    .sports p {
+        font-size: 14px;
+        
+    }
+
+    .sports .iteam {
+        padding: 50px 90px;
+    }
+
+    .sports .row{
+        row-gap: 15px;
+    }
+
+ 
+
+     /* ***************************************
+            sports end
+      **************************************** */
+
+
+      /****************************************
+            activites start
+      **************************************** */
+      .activites .uper-h3 {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+
+    .activites .uper-h2 {
+        font-size: 30px;
+        font-weight: 600;
+        width: 350px;
+       
+    }
+
+    .activites .uper-h2::after {
+        top: 90px;
+    }
+    
+    .activites .uper-p {
+        font-size: 14px;
+        width: auto;
+        margin: 50px auto 80px auto;
+    }
+
+    .activites p {
+       font-size: 16px;
+        margin-top: 0px;
+        
+    }
+
+    .activites h3 {
+        font-size: 20px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+    }
+
+    .activites h1 {
+        font-size: 60px;
+        margin-top: -11px;
+        margin-bottom: 8px;
+    }
+
+     /****************************************
+               activites end
+      **************************************** */
+
+     /****************************************
+            yellow-sports start
+      **************************************** */
+      .yellow-sports {
+        padding-bottom: 60px;
+    }
+    
+      .yellow-sports .logo {
+        margin-top: 40px;
+        width: 30%;
+    }
+
+    .yellow-sports .logo-text {
+        font-size: 21px;
+        color: #fff;
+        width: auto;
+        margin: 26px auto 20px auto;
+    }
+
+    .yellow-sports .logo-text2 {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    .yellow-sports .baton {
+        padding: 10px 30px;
+        margin-top: 18px;
+        margin-bottom: 4px;
+        
+    }
+
+    .yellow-sports .baton:hover {
+        background: #0C3543;
+        border-color: #0C3543;
+        
+    }
+
+    .yellow-sports .baton i {
+        left: 7px;
+    }
+
+    .yellow-sports .box {
+    
+    margin-top: 20px;
+}
+
+.yellow-sports .box:hover {
+	top: 50px;
+}
+
+    .yellow-sports .box .details h4 {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .yellow-sports .box .details h5 {
+        font-size: 20px;
+        
+    }
+
+    .yellow-sports .box .overlay h5::after {
+        width: 198px;
+        top: 49px;
+        
+    }
+
+    .yellow-sports .box .details p {
+        font-size: 14px;
+        margin-top: 40px;
+    }
+
+    .yellow-sports .box .details p i {
+        display: none;
+    }
+
+    .yellow-sports .box .details {
+        padding: 0px 40px;
+    }
+     /****************************************
+            yellow-sports end
+      **************************************** */
+
+
+      /****************************************
+                  choose-us start
+      **************************************** */
+      .choose-us {
+        margin-top: 100px;
+    }
+
+
+      .choose-us h2 {
+        font-size: 20px;
+    }
+
+
+    .choose-us h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+
+    .choose-us p {
+        margin: 0 auto 40px auto;
+        font-size: 14px;
+    }
+
+    
+
+    .choose-us .details {
+        margin-top: 0px;
+    }
+
+
+    .choose-us h4 {
+        font-size: 22px;
+        margin: 10px auto 10px auto;
+    }
+
+      /****************************************
+                     choose-us end
+      **************************************** */
+
+
+      /****************************************
+                     news start
+      **************************************** */
+      .news {
+        padding-bottom: 50px;
+    }
+      
+      .news .uper-h3 {
+        font-size: 20px;
+        margin-top: 60px;
+    }
+    
+    .news .uper-h2 {
+        font-size: 35px;
+        font-weight: 600;
+        width: auto;
+    }
+
+    .news .uper-h2::before {
+        top: 96px;
+    }
+
+    .news .uper-p {
+        font-size: 14px;
+        width: auto;
+        margin: 0px auto 20px 0px;
+    }
+
+    .card {
+        margin: 10px 0;
+    }
+
+    .news .card-title {
+        font-size: 22px;
+        font-weight: 600;
+        margin: 0px auto 0 auto;
+        width: auto;
+    }
+
+    .news .card-text {
+        font-size: 14px;
+        margin: 20px auto 4px auto;
+        width: auto;
+    }
+
+    .news .card-footer {
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .news .artikel {
+        font-size: 14px;
+        margin: 0 108px ;
+        padding: 8px 0 -5px 0 ;
+    }
+
+      /****************************************
+                     news end
+      **************************************** */
+
+
+      /****************************************
+                     sponsor start
+      **************************************** */
+      .sponsor {
+        padding: 50px 0;
+    }
+      
+      .sponsor img{
+        margin-bottom: 30px;
+      }
+
+      /****************************************
+                     sponsor end
+       **************************************** */
+
+
+       /****************************************
+                     footer start
+       **************************************** */
+
+       .footer .footer-section {
+        margin-left: 35px;
+    }
+    
+       .footer .bigimg {
+        display: none;
+    }
+
+    .footer .loogo{
+        width: 50%;
+    }
+
+    .footer .baton {
+        font-size: 16px;
+        padding: 10px 20px;
+        margin-top: 25px;
+    }
+
+    .footer .baton:hover {
+        background: #FF9600;
+        color: #FFf;
+        border-color: #FF9600;
+    }
+
+    .footer .fp1 {
+        font-size: 14px;;
+        width: auto;
+        margin-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+    }
+
+    .footer .fp1::after {
+        width: 244px;
+        top: 110px;
+        left: 0px;
+    }
+
+    .footer h4 {
+        margin-top: 50px;
+    }
+
+    .footer .address p {
+        font-size: 14px;
+        margin: -70px 0 90px 0px;
+    }
+
+    .footer .lastp {
+        font-size: 14px;
+        margin: -36px 0 15px 34px;
+    }
+} 
+
+
+@media (min-width:576px) and (max-width:767.99px){
+   
+   /* ***************************************
+           navbar start
+    **************************************** */
+   
+    nav .navbar-brand img{
+        width: 50%;
+    }
+
+    .navbar-nav {
+        column-gap: 50px;
+       
+        padding-left: 20px;
+    }
+
+    nav .navbar-collapse{
+        background: #0C3543;
+    }
+
+    .navbar-toggler {
+        padding: 0;
+        
+    }
+
+    nav .navbar-toggler i{
+        color: #fff;
+    }
+
+    nav .baton {
+        font-size: 15px;
+        padding: 10px 20px;
+       margin-left: 20px;
+       margin-bottom: 20px;
+    }
+
+    nav .baton:hover {
+        background: #FF9600;
+        color: #Fff;
+    }
+
+
+    /* ***************************************
+           navbar end
+     **************************************** */
+
+
+     /* ***************************************
+            banner start
+      **************************************** */
+    .banner h2 {
+        font-size: 27px;
+        width: auto;
+        padding-top: 100px;
+        margin-bottom: 15px;
+    }
+
+    .banner .baton {
+        padding: 10px 20px;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+
+    .banner .baton:hover {
+        background: #FF9600;
+        color: #Fff;
+    }
+
+    .banner img {
+        margin-bottom: -8px;
+    }
+
+     /* ***************************************
+            banner end
+      **************************************** */
+
+
+      /* ***************************************
+            adventure start
+      **************************************** */
+
+    .adventure h3 {
+        font-size: 20px;
+    }
+
+    .adventure h2 {
+        font-size: 20px;
+        width: auto;
+        margin-bottom: 24px;
+    }
+
+    .adventure .p1::after {
+        top: -14px;
+    }
+
+    .adventure .p1 {
+        font-size: 14px;
+        width: auto;  
+    }
+
+    .adventure .iconp {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .adventure .iconp i {
+        margin-right: 2px;
+    }
+
+    .adventure .baton {
+        padding: 10px 20px;
+        margin-top: 10px;
+        
+    }
+
+    .adventure .baton:hover {
+        background: #FF9600;
+        color: #Fff;
+        
+    }
+
+    .adventure img {
+        display: none;
+    }
+
+
+    /* ***************************************
+            adventure end
+      **************************************** */
+
+
+       /* ***************************************
+            sports start
+      **************************************** */
+
+      .sports {
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+
+    .sports .row{
+        row-gap: 25px;
+    }
+
+    .sports h2 {
+        font-size: 60px; 
+        text-align: center; 
+    }
+
+    .sports p {
+        font-size: 14px;
+        
+    }
+
+    .sports .iteam {
+        padding: 50px 70px;
+        
+    }
+
+    .sports .iteam1 {
+        padding: 50px 70px;
+        
+    }
+
+    .sports .iteam2 {
+        padding: 50px 70px;
+        
+    }
+
+   
+
+    .sports .iteam3{
+        padding: 50px 70px;
+        
+    }
+
+ 
+
+     /* ***************************************
+            sports end
+      **************************************** */
+
+
+      /****************************************
+            activites start
+      **************************************** */
+      .activites .uper-h3 {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+
+    .activites .uper-h2 {
+        font-size: 30px;
+        font-weight: 600;
+        width: 350px;
+       
+    }
+
+    .activites .uper-h2::after {
+        top: 90px;
+    }
+    
+    .activites .uper-p {
+        font-size: 14px;
+        width: auto;
+        margin: 43px auto 30px auto;
+    }
+    .activites p {
+        font-size: 16px;
+        margin-top: -15px;
+    }
+
+    .activites h3 {
+        font-size: 28px;
+        margin-top: 6px;
+        margin-bottom: 20px;
+        
+    }
+
+    .activites h1 {
+        font-size: 80px;
+    }
+
+     /****************************************
+               activites end
+      **************************************** */
+
+     /****************************************
+            yellow-sports start
+      **************************************** */
+      .yellow-sports {
+        padding-bottom: 60px;
+    }
+    
+    .yellow-sports .logo {
+        margin-top: 45px;
+        width: 25%;
+    }
+
+    .yellow-sports .logo-text {
+        font-size: 25px;
+        color: #fff;
+        width: auto;
+        margin: 40px auto 30px auto;
+    }
+
+    .yellow-sports .logo-text2 {
+        font-size: 20px;
+        font-weight: 500;
+    }
+
+    .yellow-sports .baton {
+        padding: 10px 30px;
+        margin-top: 25px;
+        margin-bottom: 5px;
+    }
+
+    .yellow-sports .baton:hover {
+        background: #0C3543;
+        border-color: #0C3543;
+        
+    }
+
+    .yellow-sports .baton i {
+        left: 7px;
+    }
+
+    .yellow-sports .box {
+    
+    margin-top: 20px;
+}
+
+.yellow-sports .box:hover {
+	top: 50px;
+}
+
+    .yellow-sports .box .details h4 {
+        font-size: 28px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+
+    .yellow-sports .box .details h5 {
+        font-size: 20px;
+        
+    }
+
+    .yellow-sports .box .overlay h5::after {
+        width: 198px;
+        top: 49px;
+        
+    }
+
+    .yellow-sports .box .details p {
+        font-size: 14px;
+        margin-top: 40px;
+    }
+
+    .yellow-sports .box .details p i {
+        display: none;
+    }
+
+    .yellow-sports .box .details {
+        padding: 0px 40px;
+    }
+     /****************************************
+            yellow-sports end
+      **************************************** */
+
+
+      /****************************************
+                  choose-us start
+      **************************************** */
+      .choose-us {
+        margin-top: 100px;
+    }
+
+
+      .choose-us h2 {
+        font-size: 20px;
+    }
+
+
+    .choose-us h3 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+
+    .choose-us p {
+        margin: 0 auto 40px auto;
+        font-size: 14px;
+    }
+
+    
+
+    .choose-us .details {
+        margin-top: 0px;
+    }
+
+
+    .choose-us h4 {
+        font-size: 22px;
+        margin: 10px auto 10px auto;
+    }
+
+      /****************************************
+                     choose-us end
+      **************************************** */
+
+
+      /****************************************
+                     news start
+      **************************************** */
+      .news {
+        padding-bottom: 50px;
+    }
+      
+      .news .uper-h3 {
+        font-size: 20px;
+        margin-top: 60px;
+    }
+    
+    .news .uper-h2 {
+        font-size: 35px;
+        font-weight: 600;
+        width: auto;
+    }
+
+    .news .uper-h2::before {
+        top: 96px;
+    }
+
+    .news .uper-p {
+        font-size: 14px;
+        width: auto;
+        margin: 0px auto 20px 0px;
+    }
+
+    .card {
+        margin: 10px 0;
+    }
+
+    .news .card-title {
+        font-size: 22px;
+        font-weight: 600;
+        margin: 0px auto 0 auto;
+        width: auto;
+    }
+
+    .news .card-text {
+        font-size: 14px;
+        margin: 20px auto 4px auto;
+        width: auto;
+    }
+
+    .news .card-footer {
+        padding: 10px 0;
+        text-align: center;
+    }
+
+    .news .artikel {
+        font-size: 14px;
+        margin: 0 108px ;
+        padding: 8px 0 -5px 0 ;
+    }
+
+      /****************************************
+                     news end
+      **************************************** */
+
+
+      /****************************************
+                     sponsor start
+      **************************************** */
+      .sponsor {
+        padding: 50px 0;
+    }
+      
+      .sponsor img{
+        margin-bottom: 30px;
+      }
+
+      /****************************************
+                     sponsor end
+       **************************************** */
+
+
+       /****************************************
+                     footer start
+       **************************************** */
+
+       .footer .footer-section {
+        margin-left: 35px;
+    }
+    
+       .footer .bigimg {
+        display: none;
+    }
+
+    .footer .loogo {
+        width: 35%;
+    }
+
+    .footer .baton {
+        font-size: 16px;
+        padding: 10px 20px;
+        margin-top: 25px;
+    }
+
+    .footer .baton:hover {
+        background: #FF9600;
+        color: #FFf;
+        border-color: #FF9600;
+    }
+
+    .footer .fp1 {
+        font-size: 14px;;
+        width: auto;
+        margin-top: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+    }
+
+    .footer .fp1::after {
+        width: 244px;
+        top: 69px;
+        left: 0px;
+    }
+
+    .footer h4 {
+        margin-top: 50px;
+    }
+
+    .footer .address p {
+        font-size: 14px;
+        margin: -70px 0 90px 0px;
+    }
+
+    .footer .lastp {
+        font-size: 14px;
+        margin: -36px 0 15px 34px;
+    }
+
+       /****************************************
+                     footer end
+       **************************************** */
+
+
+       
+} 
+
+
+       /* #######################################################################################
+                                                medium device
+       ######################################################################################### */
+
+@media (min-width:768px) and (max-width:991.99px){
+        
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+            banner & navbar start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        .navbar-toggler {
+	      font-size: 30px;
+	      line-height: 0;
+	      color: #fff;
+          transition: .4s;
+         }
+
+         .navbar-toggler:hover{
+            color: #FF9600;
+         }
+
+         .navbar-collapse {
+            background: #0F4152;
+            padding-bottom: 15px;
+            padding-left: 25px;
+        }
+
+         .banner h2 {
+	      font-size: 50px;
+	      width: auto;
+	      padding-top: 164px;
+	      margin-bottom: 77px;
+         }
+
+         .banner .baton {
+            padding: 15px 35px;
+            margin-bottom: 100px;
+        }
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+            banner & navbar end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+             adventure start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+        .adventure h2 {
+            font-size: 37px;
+            width: auto;
+        }
+
+        .adventure .baton {
+            padding: 15px 35px;
+            margin-top: 30px;
+        }
+
+        .adventure img {
+            display: none;
+        }
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+            adventure end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+              sports start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+        .sports {
+            margin-top: 70px;
+            margin-bottom: 70px;
+        }
+        .sports .row{
+            row-gap: 24px;
+        }
+
+        .sports .iteam {
+            padding: 45px 90px;
+        }
+        .sports .iteam1 {
+            padding: 45px 90px;
+        }
+        .sports .iteam2 {
+            padding: 45px 90px;
+        }
+        .sports .iteam3 {
+            padding: 45px 90px;
+        }
+
+        
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+              sports end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+              activites start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+        .activites .uper-h2 {
+            font-size: 50px;
+            width: auto;;
+        }
+        .activites .uper-h2::after {
+            top: 100px;
+            left: 5px;
+            width: 200px;
+        }
+
+        .activites .uper-p {
+            width: auto;
+            margin: 70px auto 61px 5px;
+        }
+
+        .activites p {
+            margin-top: 10px;
+        }
+
+        .activites .row{
+            row-gap: 24px;
+        }
+
+        .activites h1 {
+            font-size: 100px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+              activites end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+         /* >>>>>>>>>>>>>>>>>>>>>>>
+              yellow-sports start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+        .yellow-sports .logo {
+            margin-top: 80px;
+            width: 20%;
+        }
+
+        .yellow-sports .logo-text {
+            font-size: 40px;
+            width: auto;
+            margin: 40px auto 45px auto;
+        }
+
+        .yellow-sports .baton {
+            padding: 15px 51px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+        }
+
+        .yellow-sports .box .details h4 {
+            font-size: 25px;
+            margin-bottom: 5px;
+            width: 177px;
+        }
+
+        .yellow-sports .box .details h5 {
+            font-size: 20px;
+        }
+
+        .yellow-sports .box .overlay h5::after {
+            width: 125px;
+            top: 30px;
+        }
+
+        .yellow-sports .box .details p {
+            font-size: 14px;
+            margin-top: 30px;
+        }
+
+        .yellow-sports .box .details p i {
+           display: none;
+        }
+
+        .yellow-sports .box .details {
+            padding: 10px 22px;
+        }
+         /* >>>>>>>>>>>>>>>>>>>>>>>
+               yellow-sports end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+         /* >>>>>>>>>>>>>>>>>>>>>>>
+               choose-us start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+        .choose-us {
+            margin-top: 80px;
+            text-align: center;
+        }
+
+        .choose-us h2 {
+            font-size: 25px;
+        }
+
+        .choose-us h3 {
+            font-size: 45px;
+            margin-bottom: 80px;
+        }
+        .choose-us h3::before {
+            top: 85px;
+            left: 323px;
+        }
+
+        .choose-us .details {
+            text-align: center;
+            margin-top: 0px;
+        }
+
+         /* >>>>>>>>>>>>>>>>>>>>>>>
+               choose-us end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+               news start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        .news {
+            background: #F7F7F7;
+            padding-bottom: 30px;
+        }
+        .news .uper-h3 {
+            font-size: 25px;
+            margin-top: 35px;
+        }
+
+        .news .uper-h2 {
+            font-size: 45px;
+            margin-bottom: 0px;
+        }
+
+        .news .uper-h2::before {
+            top: 140px;
+        }
+
+        .news .uper-p {
+            width: auto;
+            margin: 86px auto 30px 0;
+        }
+
+        .news .card-title {
+            font-size: 21px;
+            width: auto;
+            margin: 0 auto;
+        }
+
+        .news .card-text {
+            font-size: 14px;
+            width: auto;
+            margin: 15px auto;
+        }
+
+        .news .artikel {
+            font-size: 14px;
+            margin: 0 70px !important;
+        }
+
+        .news .card-footer {
+            padding: 15px 0;
+            background: #fff;
+        }
+
+         /* >>>>>>>>>>>>>>>>>>>>>>>
+               news end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+               footer start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        .footer {
+            padding-bottom: 20px;
+        }
+        .footer .bigimg {
+            display: none;
+        }
+
+        .footer .baton {
+            padding: 15px 35px;
+        }
+
+        .footer .fp1 {
+            width: auto;
+            margin-left: 0px;
+        }
+
+        .footer .fp1::after {
+            width: 660px;
+            top: 90px;
+            left: 0px;
+        }
+
+        .footer h4 {
+            margin-top: 50px;
+        }
+
+        .footer .address p {
+            margin: -50px 0 60px 0px;
+        }
+
+        .footer .lastp {
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            color: #fff;
+            margin: -9px 0 0 68px;
+        }
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+               footer end
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+       }
+
+
+       /* #######################################################################################
+                                        large device
+       ######################################################################################### */
+
+       @media (min-width:992px) and (max-width:1199.99px){
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+            nav & banner start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        .navbar-brand {
+	       width: 20%;
+        }
+
+        .navbar-nav {
+	        column-gap: 19px;
+       }
+
+        nav .navbar-brand img{
+            width: 100%;
+        }
+
+        nav .baton {
+	        padding: 13px 30px;
+       }
+
+       .banner h2 {
+	        width: auto;
+	        padding-top: 210px;
+       }
+
+       .banner .baton {
+	padding: 13px 30px;
+	margin-bottom: 100px;
+}
+
+       /* >>>>>>>>>>>>>>>>>>>>>>>
+            adventure  start       
+       <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+       .adventure h2 {
+	font-size: 32px;
+	width: 446px;
+    margin-bottom: 30px;
+}
+
+.adventure .p1 {
+	width: 427px;
+    margin-bottom: 20px;
+}
+
+.adventure .p1::after {
+	top: -20px;
+	
+}
+
+.adventure .iconp {
+	font-size: 16px;
+	width: 442px;
+}
+
+.adventure .baton {
+	padding: 15px 35px;
+	margin-top: 0px;
+}
+
+.adventure img {
+	margin: 0 1px;
+	width: 49%;
+}
+
+     /* >>>>>>>>>>>>>>>>>>>>>>>
+            adventure  end       
+     <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+     /* >>>>>>>>>>>>>>>>>>>>>>>
+            sports  start       
+     <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+     .sports {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+     .sports h2 {
+	font-size: 70px;
+}
+.sports p {
+	font-size: 16px;
+}
+
+.sports .iteam {
+	padding: 30px 50px;
+    background-position: center;
+	background-size: contain;
+    background-repeat: no-repeat;
+	
+}
+.sports .iteam1 {
+	padding: 30px 50px;
+    background-position: center;
+	background-size: contain;
+    background-repeat: no-repeat;
+	
+}
+.sports .iteam2 {
+	padding: 30px 50px;
+    background-position: center;
+	background-size: contain;
+    background-repeat: no-repeat;
+	
+}
+.sports .iteam3 {
+	padding: 30px 50px;
+    background-position: center;
+	background-size: contain;
+    background-repeat: no-repeat;
+	
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>
+        sports  end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        activites  start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+ .activites .uper-h3 {
+	font-size: 25px;
+	margin-top: 70px;
+}
+
+.activites .uper-h2 {
+	font-size: 45px;
+}
+
+.activites .uper-h2::after {
+	top: 140px;
+}
+
+.activites .uper-p {
+	width: auto;
+	margin: 117px auto 100px 135px;
+}
+
+.activites p {
+	margin-top: 15px;
+}
+
+.activites h1 {
+	font-size: 140px;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>
+        activites  end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+     yellow-sports start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .yellow-sports .logo {
+	margin-top: 70px;
+    
+}
+
+.yellow-sports .logo-text {
+	font-size: 45px;
+    width: auto;
+	margin: 30px auto 46px auto;
+}
+
+.yellow-sports .baton {
+	padding: 15px 45px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.yellow-sports .box .details h4 {
+	font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.yellow-sports .box .details h5 {
+	font-size: 25px;
+}
+
+.yellow-sports .box .overlay h5::after {
+	width: 214px;
+}
+
+.yellow-sports .box .details {
+	padding: 0 40px;
+	margin-bottom: 4px;
+}
+
+.yellow-sports .box .details p i {
+	margin-left: 9px;
+}
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        yellow-sports end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        chooe-us start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .choose-us {
+	margin-top: 100px;
+}
+
+ .choose-us h2 {
+	font-size: 25px;
+}
+
+.choose-us h3 {
+	font-size: 45px;
+}
+
+.choose-us h3::before {
+	top: 90px;
+	left: 443px;
+}
+
+.choose-us h4 {
+	font-size: 18px;
+	width: auto;
+	margin: 40px auto 16px auto;
+}
+
+.choose-us p {
+	font-size: 16px;
+	width: auto;
+	margin: 0 auto 50px auto;
+}
+
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        chooe-us  end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        news start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .news {
+	padding-bottom: 50px;
+}
+
+ .news .uper-h3 {
+	font-size: 25px;
+	margin-top: 100px;
+}
+
+.news .uper-h2 {
+	font-size: 45px;
+}
+
+.news .uper-h2::before {
+	top: 140px;
+}
+
+.news .uper-p {
+	font-size: 16px;
+	width: auto;
+	margin: 144px auto 0 190px;
+}
+
+.news .card-title {
+	font-size: 21px;
+	width: auto;
+	margin: 15px auto 0 auto;
+}
+
+.news .card-text {
+	font-size: 17px;
+	width: auto;
+	margin: 20px auto 30px auto;
+}
+
+.news .artikel {
+	font-size: 17px;
+	margin: 0 100px !important;
+	padding: 30px 0 30px 0 !important;
+}
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        news end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .sponsor {
+	padding: 60px 0;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>
+        footer start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .footer .loogo{
+    width: 30%;
+ }
+
+ .footer .baton {
+	font-size: 14px;
+	padding: 15px 35px;
+	margin-top: 25px;
+}
+
+.footer .fp1 {
+	font-size: 14px;
+	width: auto;
+	margin-top: 17px;
+	margin-left: -11px;
+}
+
+.footer .fp1::after {
+	width: 560px;
+	top: 89px;
+	left: -185px;
+}
+
+.footer h4 {
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.footer h4::after {
+	top: 45px;
+}
+
+.footer .address p {
+	font-size: 14px;
+	margin: -60px 0 70px -200px;
+}
+
+.footer .lastp {
+	font-size: 14px;
+	margin: -35px 0 0 82px;
+}
+
+.footer .footer-section {
+	margin-top: 20px;
+	margin-left: 90px;
+    text-align: left;
+}
+.footer .bigimg {
+	width: 125%;
+}
+
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        footer end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+    /* #######################################################################################
+                                               extra large device
+       ######################################################################################### */
+
+       @media (min-width:1200px) and (max-width:1399.99px){
+
+        /* >>>>>>>>>>>>>>>>>>>>>>>
+            nav & banner start
+        <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+        .navbar-brand {
+	       width: 20%;
+        }
+
+        .navbar-nav {
+            column-gap: 40px;
+        }
+
+        
+
+        nav .baton {
+	        padding: 19px 51px;
+       }
+
+       .banner h2 {
+        width: 820px;
+        padding-top: 240px;
+    }
+
+    .banner .baton {
+        padding: 19px 51px;
+        margin-bottom: 150px;
+    }
+
+       /* >>>>>>>>>>>>>>>>>>>>>>>
+            adventure  start       
+       <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+       .adventure h2 {
+        font-size: 42px;
+        width: 558px;
+        margin-bottom: 30px;
+    }
+
+.adventure .p1 {
+	width: 427px;
+    margin-bottom: 20px;
+}
+
+.adventure .p1::after {
+	top: -20px;
+	
+}
+
+.adventure .iconp {
+	font-size: 16px;
+	width: 442px;
+}
+
+.adventure .baton {
+	padding: 19px 51px;
+	margin-top: 0px;
+}
+
+.adventure img {
+	margin: 0 1px;
+	width: 49%;
+}
+
+     /* >>>>>>>>>>>>>>>>>>>>>>>
+            adventure  end       
+     <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+     /* >>>>>>>>>>>>>>>>>>>>>>>
+            sports  start       
+     <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+     .sports {
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+.sports h2 {
+	font-size: 80px;
+}
+.sports p {
+	font-size: 18px;
+    margin-left: -28px;
+}
+
+.sports .iteam {
+	padding: 45px 70px;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.sports .iteam1 {
+	padding: 45px 70px;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.sports .iteam2 {
+	padding: 45px 70px;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.sports .iteam3 {
+	padding: 45px 70px;
+	background-position: center;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>
+        sports  end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        activites  start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+ .activites .uper-h3 {
+	font-size: 30px;
+	margin-top: 70px;
+}
+
+.activites .uper-h2 {
+	font-size: 54px;
+}
+
+.activites .uper-h2::after {
+	top: 147px;
+}
+
+.activites .uper-p {
+	width: auto;
+	margin: 117px auto 140px 200px;
+}
+
+.activites p {
+	margin-top: 15px;
+}
+
+.activites h1 {
+	font-size: 140px;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>
+        activites  end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+     yellow-sports start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .yellow-sports .logo {
+	margin-top: 70px;
+    
+}
+
+.yellow-sports .logo-text {
+	font-size: 54px;
+	width: auto;
+	margin: 50px auto 54px auto;
+}
+
+.yellow-sports .baton {
+	padding: 19px 51px;
+	margin-top: 50px;
+	margin-bottom: 80px;
+}
+
+.yellow-sports .box .details h4 {
+	font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.yellow-sports .box .details h5 {
+	font-size: 25px;
+}
+
+.yellow-sports .box .overlay h5::after {
+	width: 214px;
+}
+
+.yellow-sports .box .details {
+	padding: 0 40px;
+	margin-bottom: 4px;
+}
+
+.yellow-sports .box .details p i {
+	margin-left: 9px;
+}
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        yellow-sports end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        chooe-us start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .choose-us {
+	margin-top: 100px;
+}
+
+ .choose-us h2 {
+	font-size: 30px;
+}
+
+.choose-us h3 {
+	font-size: 54px;
+}
+
+.choose-us h3::before {
+	top: 92px;
+	left: 526px;
+}
+
+.choose-us h4 {
+	font-size: 22px;
+	width: auto;
+	margin: 40px auto 16px auto;
+}
+
+.choose-us p {
+	font-size: 17px;
+	width: auto;
+	margin: 0 auto 50px auto;
+}
+
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        chooe-us  end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        news start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .news {
+	padding-bottom: 50px;
+}
+
+ .news .uper-h3 {
+	font-size: 30px;
+	margin-top: 100px;
+}
+
+.news .uper-h2 {
+	font-size: 54px;
+}
+
+.news .uper-h2::before {
+	top: 150px;
+}
+
+.news .uper-p {
+	font-size: 18px;
+	width: auto;
+	margin: 144px auto 0 190px;
+}
+
+.news .card-title {
+	font-size: 26px;
+	width: auto;
+	margin: 15px auto 0 auto;
+}
+
+.news .card-text {
+	font-size: 18px;
+	width: auto;
+	margin: 20px auto 30px auto;
+}
+
+.news .artikel {
+	font-size: 17px;
+	margin: 0 130px !important;
+	padding: 30px 0 30px 0 !important;
+}
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        news end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .sponsor {
+	padding: 60px 0;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>
+        footer start       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+ .footer .loogo{
+    width: 30%;
+ }
+
+ .footer .baton {
+	font-size: 14px;
+	padding: 15px 35px;
+	margin-top: 25px;
+}
+
+.footer .fp1 {
+	font-size: 14px;
+	width: 354px;
+	margin-top: 17px;
+	margin-left: -11px;
+}
+
+.footer .fp1::after {
+	width: 560px;
+	top: 89px;
+	left: -230px;
+}
+
+.footer h4 {
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+.footer h4::after {
+	top: 45px;
+}
+
+.footer .address p {
+	font-size: 14px;
+	margin: -60px 0 70px -235px;
+}
+
+.footer .lastp {
+	font-size: 14px;
+	margin: -35px 0 0 95px;
+}
+
+.footer .footer-section {
+	margin-top: 20px;
+	margin-left: 90px;
+    text-align: start;
+}
+.footer .bigimg {
+	width: 115%;
+}
+
+
+ /* >>>>>>>>>>>>>>>>>>>>>>>
+        footer end       
+ <<<<<<<<<<<<<<<<<<<<<<<<<< */
+
+
+    }
+
+
+     /* #######################################################################################
+                                               extra extra large device
+       ######################################################################################### */
+
+
+
+    @media (min-width:1400px) and (max-width:3000px){
+
+        .yellow-sports .logo-text {
+            margin: 60px auto 52px auto;
+        }
+
+
+        .yellow-sports .logo {
+            margin-top: 120px;
+            width: 15%;
+        }
+
+        .choose-us h3::before {
+            left: 605px;
+            width: 130px;
+        }
+
+    .footer .fp1 {
+        width: 455px;
+        margin-left: -25px;
+    }
+
+    .footer .footer-section {
+        margin-top: 45px;
+        margin-left: 144px;
+    }
+
+    .footer .bigimg {
+        width: 115%;
+    }
+
+    .footer .lastp {
+        margin: -9px 0 0 135px;
+    }
+
+}
